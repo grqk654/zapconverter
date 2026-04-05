@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- CORE -->
   <url><loc>https://www.zapconverter.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
   <url><loc>https://www.zapconverter.com/tools</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/jpg-to-pdf</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/png-to-pdf</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/merge-pdf</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/compress-pdf</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/image-compressor</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/jpg-png-converter</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/webp-to-jpg</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/word-to-pdf</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/split-pdf</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/tools/text-to-pdf</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/how-to-convert-jpg-to-pdf</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/how-to-merge-pdf-files</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/how-to-compress-pdf</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/best-free-pdf-converter</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/how-to-convert-word-to-pdf</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/how-to-compress-images</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/jpg-vs-png-which-format</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/what-is-webp-format</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/how-to-split-pdf</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.zapconverter.com/guides/pdf-file-size-too-large</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.zapconverter.com/guides</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+
+  <!-- TOOLS -->
+  <url><loc>https://www.zapconverter.com/tools/jpg-to-pdf</loc><priority>0.9</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/png-to-pdf</loc><priority>0.9</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/merge-pdf</loc><priority>0.9</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/compress-pdf</loc><priority>0.9</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/word-to-pdf</loc><priority>0.9</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/image-compressor</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/jpg-png-converter</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/webp-to-jpg</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/split-pdf</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/tools/text-to-pdf</loc><priority>0.8</priority></url>
+
+  <!-- EXISTING GUIDES -->
+  <url><loc>https://www.zapconverter.com/guides/how-to-convert-jpg-to-pdf</loc><priority>0.9</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/how-to-merge-pdf-files</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/how-to-compress-pdf</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/best-free-pdf-converter</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/how-to-convert-word-to-pdf</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/how-to-compress-images</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-vs-png-which-format</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/what-is-webp-format</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/how-to-split-pdf</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/pdf-file-size-too-large</loc><priority>0.7</priority></url>
+
+  <!-- NEW JPG → PDF SEO CLUSTER -->
+  <url><loc>https://www.zapconverter.com/guides/jpg-to-pdf-on-iphone</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-to-pdf-on-android</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-to-pdf-no-quality-loss</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/multiple-jpg-to-pdf</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-vs-pdf</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-to-pdf-free-no-watermark</loc><priority>0.8</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-to-pdf-under-100kb</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/is-jpg-to-pdf-safe</loc><priority>0.7</priority></url>
+  <url><loc>https://www.zapconverter.com/guides/jpg-to-pdf-best-settings</loc><priority>0.7</priority></url>
+
 </urlset>
